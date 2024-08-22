@@ -1,4 +1,5 @@
 # Cube-Apocalypse-Official-Repository
+
 <h1>About</h1>
 
 Ever Dreamt of Surviving a Zombie Apocalypse in Minecraft, just Like Your favorite YouTubers? Look no Further:
@@ -7,6 +8,7 @@ Cube Apocalypse is a High-Quality modpack crafted by an Minecraft players for Pl
 
 Every ten days, brace yourself for a relentless horde intent on breaching your defenses and demolishing your base.
 
+Unfortunately, at least 10 original mods were removed because of Copyright issues
 <h1>Key Features:</h1>
 <ul>
 <li>🔫 Arm yourself with a variety of guns!</li>
@@ -35,3 +37,16 @@ Help us develop and enhance Cube Apocalypse! You can contribute by providing fee
 If you notice any grammatical errors in this description, please inform us through GitHub issues.
 
 Embark on your ultimate Zombie Apocalypse adventure with Cube Apocalypse and experience survival at its most exhilarating in Minecraft!
+
+<h1>Credits:</h1>
+For Mods That require Links back To Their Pages
+<br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/corpse">Corpse Mod</a>
+<br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/nocubes-better-grindstone" >NoCube's Better GrindStone</a>
+<br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/project-vibrant-journeys" >Project: Vibrant Journeys</a>
+<br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/villagers-sell-animals" >NoCube's Villagers Sell Animals</a>
+<br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/camera-mod" >Camera Mod</a>
